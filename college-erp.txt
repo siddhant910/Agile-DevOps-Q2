@@ -1,0 +1,11 @@
+# College ERP System
+
+This project aims to manage college academic activities.
+
+## Features
+- Student registration and login
+- Teacher registration and login
+- Student profile management
+- Upload and download study materials
+- Assignment submission
+- Discussion forum
